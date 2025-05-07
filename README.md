@@ -3,4 +3,4 @@
 I'm a computer science student based in Germany, passionate about software development and game programming.
 
 ### 📫 Contact
-[GitHub](https://github.com/oreisacher) • [Email](oliver.reisacher@outlook.de)
+[GitHub](https://github.com/oreisacher) • [Email](mailto:oliver.reisacher@outlook.de)
